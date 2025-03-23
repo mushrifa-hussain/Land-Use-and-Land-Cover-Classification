@@ -23,3 +23,11 @@ This project uses deep learning to classify land use and land cover (LULC) from 
 
 Dataset Used: EuroSAT RGB (jpg format)
 Classes: Residential, Industrial, Forest, Water, Agricultural land, etc.
+
+📜 License
+
+This project is open-source under the MIT License.
+
+🌟 Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
